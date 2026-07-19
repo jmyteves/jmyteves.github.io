@@ -1,0 +1,5 @@
+# Local archive of the old site + unused assets — never publish
+archive/
+
+# macOS / editor cruft
+.DS_Store
