@@ -59,15 +59,9 @@ I'm a cell and molecular biologist currently working as a Visiting Postdoctoral 
 
 ## 📧 Contact
 
-**Email:** jmyteves@gmail.com; jo@thecreativedetox.com  
+**Email:** jmyteves@gmail.com; jteves@idibell.cat; joji.teves@sund.ku.dk
 **Location:** Copenhagen, Denmark and Barcelona, Spain  
 **Google Scholar:** https://scholar.google.com/citations?user=BvEd7YAAAAAJ&hl=en
-
----
-
-## 🙏 Acknowledgments
-
-Website built with assistance from Claude (Anthropic) for design, SEO optimization, and interactive features.
 
 ---
 
